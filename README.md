@@ -16,7 +16,7 @@ Machine- Mac OS Catalina 10.15.7, 64 Bit
  # Instructions to be followed before running the downloaded project.
 1. Clone and download the project from git.
 2. Kindly change the drivers as  mentioned below in Line 33 of src/test/java/stepdefinitions/Stepdefinition.java
-a. For windows- ./src/test/resources/drivers/chromedriver
+a. For windows- ./src/test/resources/drivers/chromedriver_2.exe
 b. For mac- //src/test/resources/drivers/chromedriver
 3. Kindly use the relative path as "//" for the project to run in Windows, because for macos we should use "./"(designed in MAC system).
 Change the relative path in these following places.
