@@ -19,6 +19,6 @@ Machine- Mac OS Catalina 10.15.7, 64 Bit
 Change the relative path in these following places.
 a. src/test/java/stepdefinition/StepDefinition.java-> Line 33.
 b. configs/config.properties-> Line 2
-3. Run as Junit test from src/test/Runner_Vue/testrunner class.
+3. Run as Junit test from src/test/java/Runner_Vue/testrunner class.
 
 
